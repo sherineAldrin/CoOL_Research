@@ -7,7 +7,7 @@
 5. Makes two conclusive histograms about the recorded averages for temperature and salinity
 
 #### Usage
-Make sure to have the OMG 2016 and 2017 data, as well as the respective ECCO THETA and SALT files.
+Make sure to have the OMG 2016 and 2017 data, as well as the respective ECCO THETA and SALT files. Replace the file paths as needed.
 
 #### Output
-Included are the two histograms and the csv file.
+Included are the two histograms and the csv file, but the plots sorted by month and year for each OMG file will be a result as well.
